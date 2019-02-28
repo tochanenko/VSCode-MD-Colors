@@ -2,7 +2,7 @@
 
 ### How to use :
 1. Download `materialcolors.code-snippets` file
-2. Move `materialcolors.code-snippets` file to `C:\Users\%user%\AppData\Roaming\Code\User\snippets folder`
+2. Move `materialcolors.code-snippets` file to `C:\Users\%user%\AppData\Roaming\Code\User\snippets` folder
 3. ???
 4. Profit
 
