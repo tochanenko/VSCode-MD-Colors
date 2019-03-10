@@ -5,7 +5,7 @@
 You can download single file from repository by these steps:
    * Go to file view
    * Click "raw"
-   * RMC -> Cave as...
+   * RMC -> Save as...
 2. Move `materialcolors.code-snippets` file to `C:\Users\%user%\AppData\Roaming\Code\User\snippets` folder
 3. ???
 4. Profit
